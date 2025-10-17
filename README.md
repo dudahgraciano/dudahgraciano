@@ -5,7 +5,7 @@ Olá! Eu sou Maria Eduarda
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><br><br>
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=dudahgraciano" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=dudahgraciano&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudahgraciano&layout=compact&langs_count=8&card_width=320" />
