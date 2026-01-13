@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Sistema`**
 
-Me chamo Maria Eduarda Graciano, tenho 20 anos e sou natural do estado de São Paulo. Concluí o ensino médio no Juca Loureiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e faço Tecnico de Desenvolvimento de Sistema na Etec. Sou apaixonada por tecnologia.
+Me chamo Maria Eduarda Graciano, tenho 21 anos e sou natural do estado de São Paulo. Concluí o ensino médio no Juca Loureiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e faço Tecnico de Desenvolvimento de Sistema na Etec. Sou apaixonada por tecnologia.
 
 <p align="left">
   </a> 
