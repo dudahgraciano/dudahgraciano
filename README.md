@@ -1,11 +1,9 @@
 # 💻 Maria Eduarda
+*Estudante de Desenvolvimento de Sistemas*
 
-**`Estudante de Desenvolvimento de Sistema`**
-
-Me chamo Maria Eduarda Graciano, tenho 21 anos e sou natural do estado de São Paulo. Concluí o ensino médio no Juca Loureiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e faço Tecnico de Desenvolvimento de Sistema na Etec. Sou apaixonada por tecnologia.
+Me chamo Maria Eduarda Graciano, tenho 21 anos e sou natural do estado de São Paulo. Concluí o ensino médio no Juca Loureiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e faço Técnico de Desenvolvimento de Sistemas na Etec. Sou apaixonada por tecnologia.
 
 <p align="left">
-  </a> 
     <a href="https://github.com/dudahgraciano?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -13,7 +11,7 @@ Me chamo Maria Eduarda Graciano, tenho 21 anos e sou natural do estado de São P
             src="https://custom-icon-badges.demolab.com/github/stars/dudahgraciano?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/dudagraciano?tab=followers">
+    <a href="https://github.com/dudahgraciano?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -52,7 +50,8 @@ Me chamo Maria Eduarda Graciano, tenho 21 anos e sou natural do estado de São P
 />
 
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -64,13 +63,10 @@ Me chamo Maria Eduarda Graciano, tenho 21 anos e sou natural do estado de São P
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=dudahgraciano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudahgraciano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudahgraciano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
   />
-
 </p>
-
